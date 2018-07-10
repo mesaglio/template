@@ -1,6 +1,4 @@
 
-esto no va XD
-
 # Esto es un H1
 
 
