@@ -1,5 +1,5 @@
-<<<<<<< HEAD
-# Hola soy Juan
+
+# Esto es un H1
 
 
 ## Esto es un H2
@@ -148,5 +148,3 @@ lineas
 ___
 *** 
 =======
-# template
->>>>>>> parent of 1fdbf8e... Update README.md
