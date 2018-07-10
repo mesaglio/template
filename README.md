@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Hola soy Juan
 
 
@@ -146,3 +147,6 @@ lineas
 ---
 ___
 *** 
+=======
+# template
+>>>>>>> parent of 1fdbf8e... Update README.md
